@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+echo "Legacy OpenSSL Buildpack"
+exit 0
